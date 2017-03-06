@@ -1,0 +1,25 @@
+{
+    "name": "culture-pn-psu/yii2-learing-center",
+    "description": "Activity management system for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0",
+    "minimum-stability": "stable",
+    "support": {
+        "source": "https://github.com/culture-pn-psu/yii2-learing-center.git",
+        "issues": "https://github.com/culture-pn-psu/yii2-learing-center/issues"
+    },
+    "authors": [
+        {
+            "name": "Culture Service",
+            "email": "ahamad.jedu@gmail.com",
+            "role" : "Developer"
+        }
+    ],
+    
+    "autoload": {
+        "psr-4": {
+            "culturePnPsu\\learningCenter\\": ""
+        }
+    }
+}
